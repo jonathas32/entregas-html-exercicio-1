@@ -9,7 +9,7 @@ Copie e cole no formato abaixo:
 
 ---
 
-**Nome:** Seu nome aqui  
+**Nome:** Girley/Samuel
 **GitHub:** https://github.com/seuusuario/html-exercicio-1
 
 ---
