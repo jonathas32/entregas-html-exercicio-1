@@ -27,3 +27,8 @@ Copie e cole no formato abaixo:
 **Nome:** Emanuelly
 **GitHub:** https://github.com/manugatosdevo/Primeiro-projeto/blob/master/index.html
 
+---
+
+**Nome:** GAbriel Filyp e Isabelly
+**GitHub:** https://github.com/GabrielFilyp/Exerc-cio-de-HTML5
+
